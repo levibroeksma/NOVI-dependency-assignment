@@ -1,0 +1,19 @@
+{
+  "name": "dependency-assignment",
+  "version": "1.0.0",
+  "description": "Dit project is een demo voor het gebruik van packages",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levibroeksma/NOVI-dependency-assignment.git"
+  },
+  "author": "Levi Broeksma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levibroeksma/NOVI-dependency-assignment/issues"
+  },
+  "homepage": "https://github.com/levibroeksma/NOVI-dependency-assignment#readme"
+}
